@@ -8,7 +8,7 @@
 
 ## How to use:
 
-### In your terminal:
+### Install the dependecies:
 ```terminal
    npm install
 ```
