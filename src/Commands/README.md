@@ -1,11 +1,11 @@
 <h1 align="center">COMMANDS</h1>
 
 ## :brazil:
-Aqui encontramos os comandos gerais registrados. <br/>
+Aqui encontramos os comandos gerais criados. <br/>
 Para registrar um novo comando basta seguir o padrão de pasta e estrutura do comando.
 
 ## :us:
-Here is where the commands are registered
+Here is where the created commands. <br/>
 To create a new command, you have to follow directory structure and file.
 
 > */commandName/commandName.ts*
