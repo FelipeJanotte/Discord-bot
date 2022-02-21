@@ -3,9 +3,7 @@ import {
   CommandInteractionOptionResolver,
   ChatInputApplicationCommandData,
   GuildMember,
-  ApplicationCommandData,
-  Guild,
-  CommandInteractionResolvedData,
+  ApplicationCommandData
 } from "discord.js";
 
 import Client from "../Client";
